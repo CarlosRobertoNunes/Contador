@@ -1,0 +1,18 @@
+ Durante o c lculo do d¡gito verificador  o
+ sistema efetua um somat¢rio dos resultados
+ das  multiplica‡äes  de  cada algarismo do
+ c¢digo pelo multiplicador  correspondente,
+ informe   os   valores   escolhidos   para
+ multiplicadores de cada d¡gito.
+
+ Exemplo com a conta 1.1.04:
+
+ ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+ ³ C¢digo de conta: 1 1 0 4              ³
+ ³ Multiplicadores: 5 4 3 2              ³
+ ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+ (1 x 5) + (1 x 4) + (0 x 3) + (4 x 2) = 17
+
+ Logo: Somat¢rio = 17
+

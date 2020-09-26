@@ -1,0 +1,23 @@
+COBOLware Services Ltda                   BALANCO               Ter    0001/0001
+Contabilidade Fiscal           ATE ABRIL/2002 C/C: 0001 Test    23/04/2002 12:04
+------------------------------------------------------------------------CB018PA-
+ CONTA                       DESCRICAO                                    SALDO
+--------------------------------------------------------------------------------
+
+ 1                           ATIVO                                       100,00
+
+ 1.1                         ATIVO fisico                                100,00
+
+ 1.1.001-9                   Hardware                                    100,00
+
+COBOLware Services Ltda                   BALANCO               Ter    0001/0002
+Contabilidade Fiscal           ATE ABRIL/2002 C/C: 0001 Test    23/04/2002 12:04
+------------------------------------------------------------------------CB018PA-
+ CONTA                       DESCRICAO                                    SALDO
+--------------------------------------------------------------------------------
+
+ 2                           PASSIVO                                     100,00-
+
+ 2.1                         PASSIVO fisico                              100,00-
+
+ 2.1.001-3                   Maquinas                                    100,00-

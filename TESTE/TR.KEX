@@ -1,0 +1,4 @@
+'/05 "9D"/'
+If Rc = 0 Then 'Del'
+'Quit'
+'FFile'

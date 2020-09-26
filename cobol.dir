@@ -1,0 +1,19 @@
+AddSyn "BACKGROUND-COLOR" = "BACK"
+AddSyn "COLUMN" = "COL"
+AddSyn "FOREGROUND-COLOR" = "FORE"
+AddSyn "HIGHLIGHT" = "HIGH"
+Assign(External)
+Case
+CallFH"CWSQLC"
+Comp
+FileShare
+IdxFormat"4"
+Int()
+Ms(2)
+NestCall
+NoAlter
+NoBound
+NoQuery
+NoTrunc
+Opt(0)
+OptSize

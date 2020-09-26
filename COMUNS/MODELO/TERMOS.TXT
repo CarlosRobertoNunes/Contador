@@ -1,0 +1,73 @@
+
+
+
+                                  Folha: @@@@
+
+
+                               Termo de Abertura
+
+
+         Este livro que  contem #### folhas  numeradas eletronicamente
+         por  sistema  de  processamento  de  dados, do numero @@@@ ao
+         numero %%%%, servira de Diario Geral No. 999999 da:
+
+
+         Empresa.......: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+         Endereco......: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+         Bairro........: XXXXXXXXXXXXXXXXXXXXXXXXX
+         Cidade........: XXXXXXXXXXXXXXXXXXXXXXXXX  Estado......: XX
+         CEP...........: 99999-999
+         CNPJ/MF.......: 99.999.999/9999-99
+         Insc.Estadual.: XXXXXXXXXXXXXXXXXXXXXXXXX
+         Insc.no CCM...: XXXXXXXXXXXXXXXXXXXXXXXXX
+         Cartorio......: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX <No.Registro>
+
+
+
+                                   Cidade, $$$$$$$$$$$$$$$$$$$$$$$
+
+
+
+  --------------------------          ----------------------------
+     Nome da Empresa                  Contador: XXXXXXXXXXXXXXXXXX
+                                      CRC.....: XXXXXXXXXXXXXXXXXX
+                                      CIC.....: 999.999.999-99
+
+
+*  <=== Separador entre termo de abertura e encerramento, (Deve ficar na primeira coluna).
+
+
+
+                                  Folha: %%%%
+
+
+                             Termo de Encerramento
+
+
+         Este livro que  contem #### folhas  numeradas eletronicamente
+         por  sistema  de  processamento  de  dados, do numero @@@@ ao
+         numero %%%%, serviu de Diario Geral No. 999999 da:
+
+
+         Empresa.......: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+         Endereco......: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+         Bairro........: XXXXXXXXXXXXXXXXXXXXXXXXX
+         Cidade........: XXXXXXXXXXXXXXXXXXXXXXXXX  Estado......: XX
+         CEP...........: 99999-999
+         CNPJ/MF.......: 99.999.999/9999-99
+         Insc.Estadual.: XXXXXXXXXXXXXXXXXXXXXXXXX
+         Insc.no CCM...: XXXXXXXXXXXXXXXXXXXXXXXXX
+         Cartorio......: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX <No.Registro>
+
+
+
+                                   Cidade, $$$$$$$$$$$$$$$$$$$$$$$
+
+
+
+  --------------------------          ----------------------------
+     Nome da Empresa                  Contador: XXXXXXXXXXXXXXXXXX
+                                      CRC.....: XXXXXXXXXXXXXXXXXX
+                                      CIC.....: 999.999.999-99
+
+
